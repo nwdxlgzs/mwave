@@ -5,7 +5,7 @@ The inspiration comes from [bilibili.com](https://www.bilibili.com/video/av14342
 **This project is only for interest and practise.**
 
 # Preview
-![image](https://github.com/geminate/nwdxlgzs/blob/master/readme/preview.gif)
+![image](https://github.com/nwdxlgzs/mwave/blob/master/readme/preview.gif)
 关于使用，打开后托盘中右键加载文件夹
 
 # Build or Release
